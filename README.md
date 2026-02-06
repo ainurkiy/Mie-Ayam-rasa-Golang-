@@ -1,4 +1,4 @@
-```markdown
+
 # 🍜 Mie Ayam Rasa Golang
 
 Projek simulasi gerobak mie ayam dengan tiga varian rasa, dibangun menggunakan bahasa pemrograman Go (Golang).

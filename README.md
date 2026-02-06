@@ -121,8 +121,5 @@ Proyek ini dilisensikan di bawah MIT License.
 
 · ainurkiy
 
----
 
 ⭐ Jangan lupa kasih bintang jika proyek ini bermanfaat!
-
-```
